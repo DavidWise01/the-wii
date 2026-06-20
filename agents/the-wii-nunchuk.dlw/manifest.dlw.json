@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Nunchuk",
+  "universe": "WII · The Nunchuk (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Nunchuk:WII:5ed62f⟧",
+  "carbon": "the-wii-nunchuk.carbon.tiff (TIFF)",
+  "silicon": "the-wii-nunchuk.silicon.png (PNG)",
+  "seal_sha256": "70709ca6e36b9d696308297bcca8cdf4b5df1f4ea7020c8c79a8e2159d3cf4e6",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

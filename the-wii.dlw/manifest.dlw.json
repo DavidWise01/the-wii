@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "NINTENDO WII",
+  "universe": "WII · NINTENDO WII (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦NINTENDO WII:WII:3c07ec⟧",
+  "carbon": "the-wii.carbon.tiff (TIFF)",
+  "silicon": "the-wii.silicon.png (PNG)",
+  "seal_sha256": "b8c6a769299bb17365bfd54db57790b16cf8cceaebbde7a71604062ec38d413a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

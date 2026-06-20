@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "GameCube Compatibility",
+  "universe": "WII · GameCube Compatibility (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦GameCube Compatibility:WII:7c82e5⟧",
+  "carbon": "the-wii-compat.carbon.tiff (TIFF)",
+  "silicon": "the-wii-compat.silicon.png (PNG)",
+  "seal_sha256": "13a546e4fa89aea21db78854cb64a11cdb4fb7dbd6e483b551e5188de642a49a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

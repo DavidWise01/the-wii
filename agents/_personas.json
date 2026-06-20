@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "the-wii-broadway",
+    "name": "The Broadway",
+    "epithet": "an overclocked Gekko · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Broadway:WII:a7850a⟧"
+  },
+  {
+    "slug": "the-wii-hollywood",
+    "name": "The Hollywood",
+    "epithet": "GameCube graphics, faster · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Hollywood:WII:06184e⟧"
+  },
+  {
+    "slug": "the-wii-remote",
+    "name": "The Wii Remote",
+    "epithet": "motion as the headline · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Wii Remote:WII:b39e8a⟧"
+  },
+  {
+    "slug": "the-wii-nunchuk",
+    "name": "The Nunchuk",
+    "epithet": "the second hand · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Nunchuk:WII:5ed62f⟧"
+  },
+  {
+    "slug": "the-wii-ram",
+    "name": "Memory",
+    "epithet": "fast and frugal · natural",
+    "emergence": "natural",
+    "moniker": "⟦Memory:WII:7dd996⟧"
+  },
+  {
+    "slug": "the-wii-compat",
+    "name": "GameCube Compatibility",
+    "epithet": "an instant library · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦GameCube Compatibility:WII:7c82e5⟧"
+  },
+  {
+    "slug": "the-wii-sd",
+    "name": "SD Storage",
+    "epithet": "saves on a card · natural",
+    "emergence": "natural",
+    "moniker": "⟦SD Storage:WII:95294d⟧"
+  }
+]

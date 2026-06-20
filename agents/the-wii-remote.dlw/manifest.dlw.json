@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Wii Remote",
+  "universe": "WII · The Wii Remote (exereunesis)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Wii Remote:WII:b39e8a⟧",
+  "carbon": "the-wii-remote.carbon.tiff (TIFF)",
+  "silicon": "the-wii-remote.silicon.png (PNG)",
+  "seal_sha256": "e5eb87f77a98f7afe8aa3005eafe35699503e2dc34bc9a6861dda791d2bdc32f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
