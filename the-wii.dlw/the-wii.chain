@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 844
+slug  : the-wii
+seal  : b8c6a769299bb17365bfd54db57790b16cf8cceaebbde7a71604062ec38d413a
+prev  : 86bdfc0f3ab57b160c1e0011450a91b7b5f4789d0bcea7df100a14fb3471c021
+link  : f41530ce8992424c3db0af8fe869fce2b23325437044775a2398812f247c8820
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
